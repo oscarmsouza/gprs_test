@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/oscar/Wize/2-Dev/2-Firmwares/2-testes/gprs/Inc
+HeaderPath=C:/Users/oscar/Wize/2-Dev/2-Firmwares/2-testes/gprs/gprs_test/Inc
 HeaderFiles=stm32l0xx_it.h;stm32l0xx_hal_conf.h;main.h;
-SourcePath=C:/Users/oscar/Wize/2-Dev/2-Firmwares/2-testes/gprs/Src
+SourcePath=C:/Users/oscar/Wize/2-Dev/2-Firmwares/2-testes/gprs/gprs_test/Src
 SourceFiles=stm32l0xx_it.c;stm32l0xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
